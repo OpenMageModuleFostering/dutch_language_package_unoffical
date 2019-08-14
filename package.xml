@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+    <name>Dutch_Language_Package_Unoffical</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Dutch Language Package (Unofficial)</summary>
+    <description>= English =&#xD;
+Dutch Language Package - unofficial for Magento version 1.7 and above. &#xD;
+&#xD;
+= Dutch =&#xD;
+Taalpakket Nederlands - informeel (je-vorm) voor Magento versie 1.7 en hoger.</description>
+    <notes>New release, based on existing Dutch Language Package - official</notes>
+    <authors><author><name>Indigo Webstudio</name><user>indigow</user><email>petra@indigowebstudio.nl</email></author></authors>
+    <date>2013-10-24</date>
+    <time>21:30:22</time>
+    <contents></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php><package><name>Mage_Core_Modules</name><channel>community</channel><min>1.7.0.0</min><max>1.7.0.2</max></package></required></dependencies>
+</package>
