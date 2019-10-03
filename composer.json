@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Dutch_Language_Package_Unoffical",
+    "name": "OpenMageModuleFostering\/Dutch_Language_Package_Unoffical",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "Dutch Language Package (Unofficial)",
     "authors": [
-    {
-        "name": "Indigo Webstudio",
-        "email": "petra@indigowebstudio.nl"
-    }
-],
+        {
+            "name": "Indigo Webstudio",
+            "email": "petra@indigowebstudio.nl"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
