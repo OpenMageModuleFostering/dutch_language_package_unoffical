@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Dutch_Language_Package_Unoffical",
+    "name": "openmage-module-fostering\/dutch_language_package_unoffical",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Dutch Language Package (Unofficial)",
     "authors": [
